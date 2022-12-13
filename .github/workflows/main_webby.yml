@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'webby'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5ACF3C981FE54CDDB443760853DADF43 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_695920CF69584FAC9DAB0F3F34B9C579 }}
           package: .
